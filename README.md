@@ -51,7 +51,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/wrxngdev/wrxngdev/output/snake.svg" alt="Snake animation" />
-
-###
