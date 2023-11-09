@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/wrxngdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wrxngdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/niko-nikolovski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niko-nikolovski" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/niko-nikolovski-0a6707212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niko-nikolovski-0a6707212" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iamwrong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamwrong" height="30" width="40" /></a>
 </p>
 
