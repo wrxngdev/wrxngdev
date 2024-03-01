@@ -10,12 +10,6 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/a8/b5/c8/a8b5c8cf7b47342a176133adcc5d604e.gif"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/niko-nikolovski-0a6707212/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
